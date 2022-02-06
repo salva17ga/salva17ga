@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salva17ga (Salvador Garcilita)
+- 👋 Hi, I’m Salvador Garcilita (@salva17ga) 
 - 👀 I’m interested in sustainabiliry, data science and coding
 - 🌱 I’m currently learning data science 
 - 💞️ I’m always interested in projects that seek to apply data science to solve sustainability problems
