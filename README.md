@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Salvador Garcilita (@salva17ga) 
-- 👀 My professional training is a BSc in Biology and a MSc in computer science
+- 👀 My professional training is a BSc in Biology and a MSc in Computer Science
 - 🌱 My interests are sustainability, ecology, bioinformatics, artificial intelligence and computational statistics
 - 📫 You can reach me at my Linkedin profile:https://www.linkedin.com/in/salvadorgarcilitaarguello/
 
